@@ -1,0 +1,42 @@
+{
+    "cactus": {
+        "0": {
+            "id": 0,
+            "name": "Prickly Pear",
+            "latinName": "Opuntia",
+            "funFact": "The genus is named for the Ancient Greek city of Opus, where, according to Theophrastus, an edible plant grew and could be propagated by rooting its leaves."
+        },
+        "1": {
+            "id": 1,
+            "name": "Saguaro",
+            "latinName": "Carnegiea gigantea",
+            "funFact": "They may grow their first side arm any time from 75–100 years of age, but some never grow any arms."
+        },
+        "2": {
+            "id": 2,
+            "name": "Schlumbergera",
+            "latinName": "Schlumbergera",
+            "funFact": "Common names for these cacti generally refer to their flowering season. In the Northern Hemisphere, they are called Christmas cactus, Thanksgiving cactus, crab cactus and holiday cactus. In Brazil, the genus is referred to as Flor de Maio (May flower), reflecting the period in which they flower in the Southern Hemisphere."
+        }
+    },
+    "fern": {
+        "0": {
+            "id": 0,
+            "name": "Bird's Nest Fern",
+            "latinName": "Asplenium nidus",
+            "funFact": "This fern often lives in palm trees or bromeliads, where it collects water and humus in its leaf-rosette."
+        },
+        "1": {
+            "id": 1,
+            "name": "Lady Fern",
+            "latinName": "Athyrium filix-femina",
+            "funFact": "Its common names \"lady fern\" and \"female fern\" refer to how its reproductive structures (sori) are concealed in an inconspicuous – deemed \"female\" – manner on the frond. Alternatively, it is said to be feminine because of its elegant and graceful appearance."
+        },
+        "2": {
+            "id": 2,
+            "name": "Western Sword Fern",
+            "latinName": "Polystichum munitum",
+            "funFact": "The Coast Salish people of B.C. and Washington state use this plant as a pain reliever. When applied directly to the area where pain and inflammation occur, according to Della Rice Sylvester, an elder and medicine woman of the Cowichan tribe, the sword fern \"takes the pain away!\""
+        }
+    }
+}
