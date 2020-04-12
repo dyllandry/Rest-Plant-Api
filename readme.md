@@ -1,4 +1,4 @@
-# ### REST Plant Api
+# REST Plant Api
 
 A demonstration of rest api principles using a garden api.
 
