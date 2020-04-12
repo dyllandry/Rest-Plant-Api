@@ -40,3 +40,8 @@ The interfaces between client and server must be the same.
 
 Example: Resource uris are predictable and consistent.
 
+## Other Rest Resources
+
+- [RESTful API know-how](https://gist.github.com/alexserver/2fcc26f7e1ebcfc9f6d8)
+- [REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/)
+- [What is REST](https://restfulapi.net/)
