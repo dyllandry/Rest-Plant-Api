@@ -2,7 +2,7 @@
 
 A demonstration of rest api principles using a garden api.
 
-Look at `server.js` for code examples of the REST principles.
+Look at [`server.js`](/server.js) for code examples of the REST principles.
 
 ## Rest Principles
 
